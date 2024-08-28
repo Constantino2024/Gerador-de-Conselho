@@ -15,6 +15,8 @@ function buscarConselho(){
     })
 }
 
+buscarConselho()
+
 botao.onclick = () =>{
     buscarConselho()
 }
